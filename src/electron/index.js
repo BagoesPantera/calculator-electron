@@ -17,9 +17,9 @@ function createWindow() {
   );
   win.setMenuBarVisibility(false);
   win.setResizable(false);
-
+  
   if (isDev) {
-    win.webContents.openDevTools({ mode: "detach" });
+   win.webContents.openDevTools({ mode: "detach" });
   }
 }
 

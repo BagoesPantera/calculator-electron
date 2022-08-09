@@ -23,3 +23,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshot
+![calculator screnshot shouold here](https://github.com/BagoesPantera/calculator-electron/blob/main/screenshots/calculator.png?raw=true)
